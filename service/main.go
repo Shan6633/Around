@@ -34,7 +34,7 @@ type Post struct {
 const (
 	INDEX       = "around"
 	TYPE        = "post"
-	ES_URL      = "http://35.243.227.72:9200"
+	ES_URL      = "http://35.237.200.204:9200"
 	DISTANCE    = "200km"
 	BUCKET_NAME = "post-images-236123"
 	PROJECT_ID  = "tonal-run-236123"
